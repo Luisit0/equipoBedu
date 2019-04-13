@@ -1,4 +1,4 @@
 # equipoBedu
 Equipo Bedu practica Git
 - Developer: Luis Moreno
-- Developer: 
+- Developer: Miguel Gtz
